@@ -7,9 +7,14 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
+  background-repeat: no-repeat;
+  background-position: center;
+  background:url("/src/img/4907157.jpg");
+
   color: #212121;
   line-height: 1.5;
+
+  
 }
 
 #search-box {
@@ -18,3 +23,4 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
