@@ -24,3 +24,36 @@ body {
   margin-bottom: 16px;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+.country-list__info {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.country-list__img {
+  margin-right: 10px;
+}
+
+.country-list__name {
+font-size: 18px;
+}
